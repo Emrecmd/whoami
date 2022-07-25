@@ -1,0 +1,2 @@
+pyfiglet
+opencv-python
